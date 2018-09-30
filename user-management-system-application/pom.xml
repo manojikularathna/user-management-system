@@ -3,8 +3,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>org.army.shop</groupId>
-    <artifactId>shop-management-system</artifactId>
+    <groupId>org.army.ums</groupId>
+    <artifactId>user-management-system</artifactId>
     <version>0.0.1</version>
   </parent>
   <artifactId>user-management-system-application</artifactId>
@@ -14,10 +14,5 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <dependencies>
-    <dependency>
-      <groupId>org.army.shop</groupId>
-      <artifactId>common-api</artifactId>
-      <version>0.0.1</version>
-    </dependency>
   </dependencies>
 </project>
