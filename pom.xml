@@ -23,6 +23,7 @@
     <module>masterdata</module>
     <module>role-permission</module>
     <module>user</module>
+    <module>organization</module>
     <module>user-management-system-application</module>
   </modules>
 

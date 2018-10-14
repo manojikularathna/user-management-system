@@ -22,6 +22,7 @@
     <module>masterdata-api</module>
     <module>role-permission-api</module>
     <module>user-api</module>
+    <module>organization-api</module>
     <module>user-management-base-service</module>
   </modules>
 
